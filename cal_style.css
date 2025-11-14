@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #1f2937;
+    background-color: #fff;
     display: flex;
     min-height: 100vh;
     align-items: center;
@@ -194,4 +194,5 @@ button:active {
     #history-list li {
         font-size: 0.9rem;
     }
+
 }
