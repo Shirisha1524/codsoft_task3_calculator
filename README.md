@@ -46,3 +46,5 @@ Improving front-end development skills.
 Understanding user input handling.
 
 Building small, interactive web applications.
+
+📬 Contact If you like this project, feel free to ⭐ star the repo! You can connect with me on LinkedIn as well.
